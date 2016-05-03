@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lejubiledelanmdc00hoog_0095.png"; bbox 0 0 2133 3094; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 601 139 1378 240">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 601 139 1378 240">
+     <span class='ocr_line' id='line_1_1' title="bbox 601 139 1378 240; baseline 0.004 -15"><span class='ocrx_word' id='word_1_1' title='bbox 601 139 1190 240; x_wconf 58' lang='lat' dir='ltr'><strong>INNQCEN†</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1250 181 1378 231; x_wconf 71' lang='grc' dir='ltr'><em>ΧΗ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 446 263 1560 421">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 446 263 1560 421">
+     <span class='ocr_line' id='line_1_2' title="bbox 446 263 1560 357; baseline 0.005 -22"><span class='ocrx_word' id='word_1_3' title='bbox 446 285 915 337; x_wconf 79' lang='lat' dir='ltr'>GREGORIVS</span> <span class='ocrx_word' id='word_1_4' title='bbox 949 263 1079 338; x_wconf 78' lang='lat' dir='ltr'>x1&#39;11.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1115 289 1334 340; x_wconf 82' lang='lat' dir='ltr'>PONT.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1369 288 1560 357; x_wconf 60' lang='lat' dir='ltr'><em>MAXg</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 737 353 1330 421; baseline 0.005 -20"><span class='ocrx_word' id='word_1_7' title='bbox 737 353 964 402; x_wconf 77' lang='lat' dir='ltr'>ANNo</span> <span class='ocrx_word' id='word_1_8' title='bbox 994 355 1330 421; x_wconf 71' lang='lat' dir='ltr'>JUBILAEI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 416 460 1583 539">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 416 460 1583 539">
+     <span class='ocr_line' id='line_1_4' title="bbox 416 460 1583 539; baseline 0.014 -33"><span class='ocrx_word' id='word_1_9' title='bbox 416 460 611 523; x_wconf 80' lang='lat' dir='ltr'><em>Gregoire</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 632 477 649 509; x_wconf 87' lang='lat'>1</span> <span class='ocrx_word' id='word_1_11' title='bbox 664 465 942 524; x_wconf 81' lang='lat' dir='ltr'><em>3.Souverain</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 952 464 1127 529; x_wconf 77' lang='lat' dir='ltr'><em>I’ontifi‘,</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1164 466 1343 537; x_wconf 63' lang='lat' dir='ltr'><em>lenne&#39;e</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1353 469 1407 520; x_wconf 85' lang='lat' dir='ltr'><em>du</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1419 469 1583 539; x_wconf 52' lang='lat' dir='ltr'><em>Jubile&#39;,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 191 579 1660 2937">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 191 579 1660 2937">
+     <span class='ocr_line' id='line_1_5' title="bbox 191 579 1660 2937; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 191 579 1660 2937; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1836 186 1900 255">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1836 186 1900 255">
+     <span class='ocr_line' id='line_1_6' title="bbox 1836 186 1900 255; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 1836 186 1900 255; x_wconf 71' lang='lat'><em>²1⁴7</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
